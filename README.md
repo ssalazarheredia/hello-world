@@ -1,2 +1,5 @@
-# hello-world
-My first github repository
+# Hello World
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript 
